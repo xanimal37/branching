@@ -12,5 +12,6 @@
 * git log : show commit log
 
 ### Branching Commands
-* git branch - list local branches
-* git branch - branchName : create local branch 'branchName'
+* git branch : list local branches
+* git branch branchName : create local branch 'branchName'
+* git checkout branchName : - switch to branch 'branchName'
